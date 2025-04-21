@@ -1,8 +1,5 @@
 import cv2
 import mediapipe as mp
-import time
-import math
-import numpy as np
 from GazeEstimation.GazeEstimation import GazeEstimation
 from AllGaze.pygaze import PyGaze, PyGazeRenderer
 
